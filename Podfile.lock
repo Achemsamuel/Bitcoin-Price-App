@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.8.0)
+  - PickerView (0.4.0)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - PickerView
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - PickerView
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  PickerView: a736ea986d992aa3ef32423f475fdf3f3a0cf7d4
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: 995b9c64ec87d595f61599f72fc52ec86a75ebef
+
+COCOAPODS: 1.5.3
